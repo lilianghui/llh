@@ -21,9 +21,3 @@
 * 个人博客：[http://www.itmuch.com](http://www.itmuch.com)
 * Spring For All 社区：<http://www.spring4all.com>
 * 微信：![微信公众号](wx.jpg)
-
-**持续更新Spring Cloud、Docker相关知识**，敬请关注！！
-
-**持续更新Spring Cloud、Docker相关知识**，敬请关注！！
-
-**持续更新Spring Cloud、Docker相关知识**，敬请关注！！
